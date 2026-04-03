@@ -1,0 +1,14 @@
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\bin\Debug\net10.0\SP2.exe
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\bin\Debug\net10.0\SP2.deps.json
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\bin\Debug\net10.0\SP2.runtimeconfig.json
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\bin\Debug\net10.0\SP2.dll
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\bin\Debug\net10.0\SP2.pdb
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.AssemblyInfoInputs.cache
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.AssemblyInfo.cs
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.csproj.CoreCompileInputs.cache
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.dll
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\refint\SP2.dll
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.pdb
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\SP2.genruntimeconfig.cache
+C:\Users\rojun\OneDrive\Documentos\SENAI DEV\SP2\obj\Debug\net10.0\ref\SP2.dll
